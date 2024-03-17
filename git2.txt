@@ -1,1 +1,2 @@
-
+Clone a Remote Repository:
+To create a local copy of a remote repository, use clone_from
